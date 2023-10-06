@@ -25,6 +25,9 @@ To run this project, you'll need the following dependencies:
 - CUDA and cuDNN (for GPU support)
 - Google Colab (for cloud-based training, if desired)
 
+## Dataset
+You can find the dataset from this Link : https://drive.google.com/file/d/1q6GxNqZKNjyjkplHGNpWNZoHifFqHiMZ/view?usp=drive_link
+
 ## Getting Started
 
 1. Clone the Darknet repository:
