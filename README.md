@@ -1,6 +1,7 @@
 # Face Mask Detection using YOLO
 
-![Example](images/example.jpg)
+![download1](https://github.com/GvHemanth/Face-Mask-Detection---YOLO/assets/125199925/31c316df-df29-4c8c-b9d8-562be0c8e7d6)
+
 
 ## Overview
 
